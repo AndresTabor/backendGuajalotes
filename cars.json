@@ -1,0 +1,42 @@
+{
+    "vehiculos": [
+        {
+            "id": 1,
+            "marca": "Mazda",
+            "modelo": "3 2.0 Touring 2020",
+            "estado": "Usado",
+            "precio": "65.000.000",
+            "unibacion": " medellín",
+            "imagen": "https://res.cloudinary.com/andrestaborda/image/upload/v1638894831/mazda_jdhw9s.webp"
+        },
+        {
+            "id": 2,
+            "marca": "Chevrolet",
+            "modelo": "Aveo Emotion 1.6 GT 2016",
+            "estado": "Usado",
+            "precio": "20.900.000",
+            "unibacion": " Bogota",
+            "imagen": "https://res.cloudinary.com/andrestaborda/image/upload/v1638894770/aveo_eq6zrs.webp"
+        },
+        {
+            "id": 3,
+            "marca": "Kia",
+            "modelo": "Picanto Emotion 2022",
+            "estado": "Nuevo",
+            "precio": "41.240.000",
+            "unibacion": " Medellin",
+            "imagen": "https://res.cloudinary.com/andrestaborda/image/upload/v1638895042/picanto_e0a0gz.webp"
+        },
+        {
+            "id": 4,
+            "marca": "Renault",
+            "modelo": "Kiwid Life 2022",
+            "estado": "Nuevo",
+            "precio": "39.300.00",
+            "unibacion": " Cali",
+            "imagen": "https://res.cloudinary.com/andrestaborda/image/upload/v1638895041/kiwid_k2esmz.webp"
+        }
+        
+        
+    ]
+}
