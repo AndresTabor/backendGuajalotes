@@ -38,5 +38,15 @@
         }
         
         
+    ],
+    "usuarios": [
+        {
+            "id": 4,
+            "nombre": "Renault",
+            "apellido": "Kiwid Life 2022",
+            "correo": "Nuevo",
+            "contraseña": "39.300.00"
+            
+        }
     ]
 }
